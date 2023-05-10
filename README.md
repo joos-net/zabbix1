@@ -48,7 +48,7 @@ systemctl enable zabbix-server apache2
 ```
 
 
-![Zabbix2](https://github.com/joos-net/zabbix1/blob/main/zab2.png)
+![Zabbix1](https://github.com/joos-net/zabbix1/blob/main/zab1.png)
 
 ![Zabbix2](https://github.com/joos-net/zabbix1/blob/main/zab2.png)
 
