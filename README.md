@@ -24,8 +24,6 @@
 
 ### Задание 1
 
-`Приведите ответ в свободной форме........`
-
 1. Установите Zabbix Server с веб-интерфейсом.
 
 ```
@@ -49,16 +47,14 @@ systemctl restart zabbix-server apache2
 systemctl enable zabbix-server apache2
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Zabbix1](https://github.com/joos-net/zabbix1/blob/main/zab1.png)`
 
-![Zabbix2](https://github.com/joos-net/zabbix1/blob/main/zab2.png)`
+![Zabbix2](https://github.com/joos-net/zabbix1/blob/main/zab2.png)
+
+![Zabbix2](https://github.com/joos-net/zabbix1/blob/main/zab2.png)
 
 ---
 
 ### Задание 2
-
-`Приведите ответ в свободной форме........`
 
 1. Установите Zabbix Agent на два хоста.
 
@@ -81,11 +77,11 @@ sudo launchctl start com.zabbix.zabbix_agentd
 
 ```
 
-![Zabbix3](https://github.com/joos-net/zabbix1/blob/main/zab3.png)`
+![Zabbix3](https://github.com/joos-net/zabbix1/blob/main/zab3.png)
 
-![Zabbix4](https://github.com/joos-net/zabbix1/blob/main/zab4.png)`
+![Zabbix4](https://github.com/joos-net/zabbix1/blob/main/zab4.png)
 
-![Zabbix5](https://github.com/joos-net/zabbix1/blob/main/zab5.png)`
+![Zabbix5](https://github.com/joos-net/zabbix1/blob/main/zab5.png)
 
 ---
 ## Дополнительные задания (со звездочкой*)
@@ -94,9 +90,6 @@ sudo launchctl start com.zabbix.zabbix_agentd
 
 ### Задание 3
 
-`Приведите ответ в свободной форме........`
-
 1. Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
 
-`При необходимости прикрепитe сюда скриншоты
-![Zabbix6](https://github.com/joos-net/zabbix1/blob/main/zab6.png)`
+![Zabbix6](https://github.com/joos-net/zabbix1/blob/main/zab6.png)
